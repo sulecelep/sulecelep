@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Asp.Net Core 5.0 MVC NTier Projects**
 
-- 📫 How to contact me **ssulecelepp@gmail.com**
+- 📫 How to contact me  **ssulecelepp@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
