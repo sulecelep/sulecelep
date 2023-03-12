@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Şule Celep</h1>
+<h1 align="center">Hi 👋, I'm Şule Celep</h1>
 <h3 align="center">Web Developer</h3>
 
 - 🔭 I’m currently working on **Asp.Net Core 5.0 MVC NTier Projects**
