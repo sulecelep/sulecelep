@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Şule Celep</h1>
-<h3 align="center">Web Developer</h3>
+<h4 align="center">Hi 👋, I'm Şule Celep</h1>
+<h6 align="center">Web Developer</h3>
 
 - 🌱 I’m currently learning **Asp.Net Core 5.0 MVC NTier Projects**
 
