@@ -5,7 +5,7 @@
 
 - 📫 How to contact me  **ssulecelepp@gmail.com**
 
-![](https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif)
+![gif](https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif)
 
 <p align="left">
 </p>
