@@ -6,6 +6,7 @@
 - 📫 How to contact me  **ssulecelepp@gmail.com**
 <br/>
 
+![](https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif)
 <br/>
 <p align="left">
 </p>
