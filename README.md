@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning **Asp.Net Core 5.0 MVC NTier Projects**
 
 - 📫 How to contact me  **ssulecelepp@gmail.com**
-
-![gif](https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif)
-
+<br/>
+![](https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif)
+<br/>
 <p align="left">
 </p>
 
