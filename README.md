@@ -1,7 +1,7 @@
 <h4 align="center">Hi 👋, I'm Şule Celep</h1>
 <h6 align="center">Web Developer</h3>
 
-- 🌱 I’m currently learning **Asp.Net Core 5.0 MVC NTier Projects**
+- 🔭 I’m currently working on **Asp.Net Core NTier Structure**
 
 - 📫 How to contact me  **ssulecelepp@gmail.com**
 <br/>
