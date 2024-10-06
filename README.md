@@ -24,22 +24,49 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">   
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60" height="60"/> </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="60" height="60"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="60" height="60"/> </a>
-  <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" alt="quasar" width="60" height="60"/> </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira"  width="60" height="60"/> </a>
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence"  width="60" height="60"/> </a>
+  <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-plain-wordmark.svg" alt="quasar" width="60" height="60"/> </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira"  width="60" height="60"/> </a>
+  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-plain-wordmark.svg" alt="confluence"  width="60" height="60"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"  width="60" height="60"/> </a> 
+
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql"  width="60" height="60"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs"  width="60" height="60"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="60" height="60"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"  width="60" height="60"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"  width="60" height="60"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  width="60" height="60"/> </a> 
 
 
 </p>
-  
+<br/>
+<br/>
+
+
+
+
 </div>
+<div align="center">
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sulecelep&show_icons=true&theme=radical" alt="Sule's GitHub stats" width="500"/>
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&quote=We%20are%20all%20in%20the%20gutter,%20but%20some%20of%20us%20are%20looking%20at%20the%20stars.&author=Oscar%20Wilde" alt="Readme Quotes" width="400"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div align="center">
+
+[![Sule's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sulecelep&bg_color=050e2b&color=F72798&line=15F5BA&point=FFFB73&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+
+
+
 
 
 
