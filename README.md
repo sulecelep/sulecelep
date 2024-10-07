@@ -57,14 +57,16 @@
     </td>
   </tr>
 </table>
+
+
 </div>
 
 <div align="center">
 
-[![Sule's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sulecelep&bg_color=050e2b&color=F72798&line=15F5BA&point=FFFB73&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sule's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sulecelep&bg_color=050e2b&color=F72798&line=15F5BA&point=FFFB73&area=true&hide_border=true)](https://github.com/sulecelep/github-readme-activity-graph)
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=sulecelep&color=F72798)
 
 
 
