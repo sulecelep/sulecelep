@@ -53,8 +53,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sulecelep&show_icons=true&theme=radical" alt="Sule's GitHub stats" width="500"/>
     </td>
     <td style="padding: 10px;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&quote=We%20are%20all%20in%20the%20gutter,%20but%20some%20of%20us%20are%20looking%20at%20the%20stars.&author=Oscar%20Wilde" alt="Readme Quotes" width="400"/>
-    </td>
+      
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&quote=There%20are%20two%20tragedies%20in%20life.%20One%20is%20to%20lose%20your%20heart's%20desire.%20The%20other%20is%20to%20gain%20it.&author=George%20Bernard%20Shaw" alt="Readme Quotes" width="400"/>
+
+</td>
   </tr>
 </table>
 
