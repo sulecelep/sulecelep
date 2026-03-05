@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sulecelep&show_icons=true&theme=radical" alt="Sule's GitHub stats" width="500"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulecelep&theme=tokyonight" alt="GitHub Streak" />
     </td>
     <td style="padding: 10px;">
       
@@ -61,8 +61,11 @@
   </tr>
 </table>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Software+Developer;Always+learning+new+things;Building+useful+projects" alt="Typing SVG" />
+
 
 </div>
+
 
 <div align="center">
 
